@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/dhafa/OneDrive/Dokumen/NetBeansProjects/OnlineRoomReservationSystem/web/index.jsp</file>
+            <file>file:/C:/Users/dhafa/OneDrive/Dokumen/NetBeansProjects/OnlineRoomReservationSystem/src/java/model/User.java</file>
+            <file>file:/C:/Users/dhafa/OneDrive/Dokumen/NetBeansProjects/OnlineRoomReservationSystem/src/java/model/Reservation.java</file>
+            <file>file:/C:/Users/dhafa/OneDrive/Dokumen/NetBeansProjects/OnlineRoomReservationSystem/src/java/session/ReservationBean.java</file>
+            <file>file:/C:/Users/dhafa/OneDrive/Dokumen/NetBeansProjects/OnlineRoomReservationSystem/src/java/session/AdminBean.java</file>
+            <file>file:/C:/Users/dhafa/OneDrive/Dokumen/NetBeansProjects/OnlineRoomReservationSystem/src/java/controller/LoginController.java</file>
+            <file>file:/C:/Users/dhafa/OneDrive/Dokumen/NetBeansProjects/OnlineRoomReservationSystem/src/java/controller/ReservationController.java</file>
+            <file>file:/C:/Users/dhafa/OneDrive/Dokumen/NetBeansProjects/OnlineRoomReservationSystem/web/index.xhtml</file>
+            <file>file:/C:/Users/dhafa/OneDrive/Dokumen/NetBeansProjects/OnlineRoomReservationSystem/web/register.xhtml</file>
+            <file>file:/C:/Users/dhafa/OneDrive/Dokumen/NetBeansProjects/OnlineRoomReservationSystem/web/reserveRoom.xhtml</file>
+            <file>file:/C:/Users/dhafa/OneDrive/Dokumen/NetBeansProjects/OnlineRoomReservationSystem/web/reservationStatus.xhtml</file>
+            <file>file:/C:/Users/dhafa/OneDrive/Dokumen/NetBeansProjects/OnlineRoomReservationSystem/web/adminDashboard.xhtml</file>
+            <file>file:/C:/Users/dhafa/OneDrive/Dokumen/NetBeansProjects/OnlineRoomReservationSystem/web/Templates/header.xhtml</file>
+            <file>file:/C:/Users/dhafa/OneDrive/Dokumen/NetBeansProjects/OnlineRoomReservationSystem/web/Templates/footer.xhtml</file>
+            <file>file:/C:/Users/dhafa/OneDrive/Dokumen/NetBeansProjects/OnlineRoomReservationSystem/nbproject/project.properties</file>
+        </group>
+    </open-files>
+</project-private>
