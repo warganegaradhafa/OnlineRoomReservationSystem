@@ -1,1 +1,0 @@
-typeSearchIndex = [{"p":"session","l":"AdminBean"},{"l":"All Classes","url":"allclasses-index.html"},{"p":"controller","l":"LoginController"},{"p":"model","l":"Reservation"},{"p":"session","l":"ReservationBean"},{"p":"controller","l":"ReservationController"},{"p":"model","l":"User"}]
